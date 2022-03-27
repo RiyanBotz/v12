@@ -1,6 +1,6 @@
 
 {
-  botname = "RAMDANI BOTZ"
+  botname = "RiyanBotz"
 
 
   exports.help = (prefix) => {
@@ -118,12 +118,12 @@ Apabila Melewati Jam Aktif, Maka Akan Di Proses Di Hari Berikutnya
 [14.05, 20/12/2021] Ramdanis Store: 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
-A / n : DISAH
+Nomor : 081325964458
+A / n : RiyanPewe
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 083861908019
+A / n : RiyanBotz
 
 💳 OVO (LIMIT) 
 Nomor : 
@@ -140,12 +140,12 @@ return `
 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
-A / n : DISAH
+Nomor : 081325964458
+A / n : RiyanPewe
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 083861908019
+A / n : RiyanBotz
 
 💳 OVO (LIMIT) 
 Nomor : 
