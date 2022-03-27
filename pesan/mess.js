@@ -1,6 +1,6 @@
 module.exports.mess = {
-	        wait: 'Waitt.... process......',
-	        ban: 'Maaf nomor kamu sudah terbanned, Silahkan hubungi owner❗',
+	        wait: 'Waitt.... Kontol......',
+	        ban: 'Maaf nomor kamu sudah terbanned, Silahkan hubungi owner/RiyanBotz❗',
 			success: 'Selesai...',
 			limit: `Limit kamu sudah habis silahkan kirim .limit untuk mengecek limit`,
 			wrongFormat: 'Format salah, coba liat lagi di menu',
